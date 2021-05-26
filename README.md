@@ -1,23 +1,12 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**MurariSabavath/MurariSabavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Murari Sabavath.
 
-Here are some ideas to get you started:
+### Languages and Technologies that I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there ,
-I'm Murari Sabavath.
+<img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
+<img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
 
-Skills: Python / Javascript / C / C++ / Django / Flask / React / HTML / CSS / Bootstrap
 
 
 
