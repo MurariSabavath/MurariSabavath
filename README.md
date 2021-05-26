@@ -1,12 +1,18 @@
-### Hello World 👋
+### Hello World 👋, I'm **Murari Sabavath**.
 
-## I'm Murari Sabavath.
+I'm a student undergrad at Rajiv Gandhi University of Knowledge Technologies, Basar 
+a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
+
+- 📚 I’m currently learning everything
+- 🐝 I have worked on several side projects on Web development
+- 🌱 I'm looking forward to contribute to open source
+
+
 
 ### Languages and Technologies that I'm working on
 
 <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
-<img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-
+<img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" />
 
 
 
