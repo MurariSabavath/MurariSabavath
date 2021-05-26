@@ -25,3 +25,6 @@ Skills: Python / Javascript / C / C++ / Django / Flask / React / HTML / CSS / Bo
 
 
 
+<a href="https://github.com/MurariSabavath/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
