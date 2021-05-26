@@ -19,7 +19,7 @@ a digital payment provider in Indonesia, where I build production ready modules 
 </a>
 <a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a>
 
-<a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murarisabavath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MurariSabavath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MurariSabavath_)  
