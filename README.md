@@ -1,7 +1,6 @@
 ### Hello World 👋, I'm **Murari Sabavath**.
 
-I'm a student undergrad at Rajiv Gandhi University of Knowledge Technologies, Basar 
-a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
+I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, Basar.
 
 - 📚 I’m currently learning everything
 - 🐝 I have worked on several side projects on Web development
