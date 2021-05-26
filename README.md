@@ -11,9 +11,15 @@ a digital payment provider in Indonesia, where I build production ready modules 
 
 ### Languages and Technologies that I'm working on
 
-<img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
-<img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" />
+<a href="https://www.python.org/">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" />
+</a>
+<a href="https://www.javascript.com/">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" />
+</a>
+<a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a>
 
+<a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murarisabavath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MurariSabavath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MurariSabavath_)  
