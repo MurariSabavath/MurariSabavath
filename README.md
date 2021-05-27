@@ -59,6 +59,12 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
    </a>  -->
  </p>  
 
+ ## Reach me out here
+  <a href="https://www.linkedin.com/in/murarisabavath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/murari_sabavath" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/MurariSabavath_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://open.spotify.com/user/9jazq70v6bxhbij6wdqdmjcew" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
 
 
 [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=MurariSabavath&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
@@ -66,12 +72,4 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
-       
-<div align="center">
-  <h3>Reach me out here</h3>
-  
-  <a href="https://www.linkedin.com/in/murarisabavath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/murari_sabavath" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/MurariSabavath_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://open.spotify.com/user/9jazq70v6bxhbij6wdqdmjcew" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-</div>
+      
