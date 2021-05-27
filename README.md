@@ -18,6 +18,8 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 </a>
 <a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a>
 
+<img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+
 
 
 
