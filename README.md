@@ -65,11 +65,15 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
   <a href="https://twitter.com/MurariSabavath_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://open.spotify.com/user/9jazq70v6bxhbij6wdqdmjcew" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
+</br>
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 
 [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=MurariSabavath&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
       
