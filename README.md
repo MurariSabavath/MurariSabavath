@@ -17,8 +17,9 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" />
 </a>
 <a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a>
-
-<img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<a href="https://docs.djangoproject.com/en/3.2/">
+  <img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+</a>
 
 
 
