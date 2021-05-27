@@ -43,9 +43,9 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
    <a href="https://www.oracle.com/" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
    </a> 
-   <a href="https://www.postgresql.org" target="_blank"> 
+<!--    <a href="https://www.postgresql.org" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-   </a>
+   </a> -->
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> 
@@ -61,7 +61,7 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 
 
 ### Reach me out here
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MurariSabavath/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MurariSabavath_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murarisabavath/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MurariSabavath/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MurariSabavath_)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murarisabavath/)
 
 
 
