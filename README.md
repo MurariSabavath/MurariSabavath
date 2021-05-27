@@ -9,7 +9,7 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 
 
 ### Tools and Technologies that I'm working on
-<p align="left"> 
+<p align="left" style="padding: 10px"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
