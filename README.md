@@ -8,7 +8,7 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 
 
 
-### Tools and Technologies that I'm working on
+### Tech Stack
 <p align="left" style="padding: 10px"> 
   <a href="https://www.python.org" target="_blank" style="padding: 10px"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -60,8 +60,16 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
  </p>  
 
 
+
+     
+<div align="center">
 ### Reach me out here
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MurariSabavath/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MurariSabavath_)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murarisabavath/)
+  
+<a href="https://www.linkedin.com/in/murarisabavath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/murari_sabavath" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/MurariSabavath_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/9jazq70v6bxhbij6wdqdmjcew" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>
 
 
 
