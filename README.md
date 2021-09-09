@@ -59,7 +59,7 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
    </a>  -->
  </p>  
      
-     ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
  ## Reach me out here
   <a href="https://www.linkedin.com/in/murarisabavath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
