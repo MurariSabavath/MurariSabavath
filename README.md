@@ -69,7 +69,7 @@ I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, B
 
 </br>
   
-[![Visits Badge](https://github.com/MurariSabavath)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/murarisabavath)](https://badges.pufler.dev)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
