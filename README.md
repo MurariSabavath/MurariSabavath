@@ -1,10 +1,6 @@
-### Hello World 👋, I'm **Murari Sabavath**.
+## Hello World 👋, I'm **Murari Sabavath**.
 
-I'm a student, undergrad at Rajiv Gandhi University of Knowledge Technologies, Basar.
-
-- 📚 I’m currently learning everything
-- 🐝 I have worked on several side projects on Web development
-- 🌱 I'm looking forward to contribute to open source
+[![I build things for web](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 
