@@ -75,6 +75,6 @@
 
 [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=MurariSabavath&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=MurariSabavath&style=flat&color=blueviolet)
   
       
