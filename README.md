@@ -56,6 +56,8 @@
    </a>  -->
  </p>  
      
+     
+
 
 
  ## Reach me out here
@@ -66,7 +68,9 @@
 
 </br>
   
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/MurariSabavath/MurariSabavath)](https://badges.pufler.dev) -->
+[![Visits Badge](https://badges.pufler.dev/visits/MurariSabavath/MurariSabavath)](https://badges.pufler.dev)
+  
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9jazq70v6bxhbij6wdqdmjcew)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -77,4 +81,5 @@
 
 ![](https://komarev.com/ghpvc/?username=MurariSabavath&style=flat&color=blueviolet)
   
+  ![Snake animation](https://github.com/luisjeremias/luisjeremias/blob/output/github-contribution-grid-snake.svg)
       
