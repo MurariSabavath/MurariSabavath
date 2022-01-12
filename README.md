@@ -73,9 +73,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MurariSabavath&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurariSabavath&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MurariSabavath&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurariSabavath&theme=tokyonight" />
 
-  
-  ![Snake animation](https://github.com/luisjeremias/luisjeremias/blob/output/github-contribution-grid-snake.svg)
       
