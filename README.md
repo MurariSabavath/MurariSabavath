@@ -16,6 +16,9 @@ Hello World 👋, I'm <b>Murari Sabavath</b>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murarisabavath&label=Profile%20views&color=0e75b6&style=flat" alt="murarisabavath" /> </p>
+
+
 ## Tech Stack
 
 ##### Languages
